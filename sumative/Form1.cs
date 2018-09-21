@@ -44,7 +44,7 @@ namespace sumative
             g.FillEllipse(drawBrush, 335, 600, 10, 10);
             Thread.Sleep(450);
             player.Play();
-            g.FillEllipse(drawBrush, 709, 630, 10, 10);
+            g.FillEllipse(drawBrush, 709, 630, 10, 10);  
             Thread.Sleep(425);
 
             g.DrawString("Cancer is one of twelve " +
